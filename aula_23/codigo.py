@@ -20,3 +20,4 @@ try:
 
 except Exception as e:
         print(f'Error while trying to obtain data. {e}')
+
